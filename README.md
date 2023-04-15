@@ -1,2 +1,2 @@
 # dyna
-Dynamic knowledge graphg embeddings
+Dynamic knowledge graph embeddings
